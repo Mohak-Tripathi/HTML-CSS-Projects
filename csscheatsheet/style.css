@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* h1{
+    color: blue;
+} */
+
+body {
+  background-color: #f4f4f4;
+
+  font-family: "Times New Roman", Times, serif, Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+
+  line-height: 1.6em;
+
+  /* font: bold 18px Arial, Helvetica;  //Short Cut of font - Same as above*/
+
+
+}
+
+.box1{
+    background-color: black;
+    color: white;
+
+    border-right: 5px solid red;
+    border-left: 5px solid red;
+    border-bottom: 5px solid red;
+    border-top: 5px solid red;
+
+    /* border-width: 15px */
+
+    border-bottom-width: 20px;
+
+    border-top-style: dotted;
+    border-bottom-style:dashed;
+
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px; */
+/* same  */
+    padding: 30px;
+    margin : 20px
+
+}
+
+.box1 h1{
+
+    font-family: Tahoma, Arial, Helvet;
+    font-style: italic;
+    font-weight: 700;
+    
+  /* text formating style */
+text-decoration: underline;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+word-spacing: 1em;
+
+
+
+
+
+
+
+
+}
+
+
